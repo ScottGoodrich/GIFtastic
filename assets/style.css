@@ -3,6 +3,7 @@ h1 {
     font-size: 130px;
     color: black;
 }
+
 h4 {
     font-family: 'Gidugu', sans-serif;
     font-size: 40px;
@@ -10,21 +11,25 @@ h4 {
     float: right;
     margin-top: -20px;
 }
+
 #submit-btn {
     background-color: rgb(88, 243, 17);
     border:4px solid rgb(88, 243, 17);
     border-radius: 12%;
 }
+
 #input-div {
     border: 5px solid rgb(88, 243, 17);
     border-radius: 20px;
     padding: 25px;
 }
+
 label, #submit-btn {
     font-family: 'New Rocker', cursive;
     font-size: 30px;
     color: black;
 }
+
 input {
     font-family: 'Gidugu', sans-serif;
     font-size: 30px;
@@ -32,12 +37,15 @@ input {
     border: 4px solid black;
     border-radius: 12%;
 }
+
 #button-div {
     margin-top: 15px;
 }
+
 #gif-div {
     margin-top: 30px;
 }
+
 button {
     font-family: 'Gidugu', sans-serif;
     font-size: 30px;
@@ -46,6 +54,7 @@ button {
     border-radius: 12%;
     margin: 5px;
 }
+
 #gif-collect {
     margin-top: 20px;
 }
